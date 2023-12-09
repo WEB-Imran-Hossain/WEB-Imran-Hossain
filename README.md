@@ -21,19 +21,13 @@
   <a href="https://twitter.com/web_webimran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="md.imranhossain_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://medium.com/@webimran" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
-  <a href="webimran2021@gmail.com" target="_blank">
+  <a href="mailto:webimran2021@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-
-
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
@@ -49,9 +43,9 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WEB-Imran-Hossain&theme=blue_green" />
 </p>
 
-<a href="http://www.github.com/Rezwan66">
+<a href="http://www.github.com/WEB-Imran-Hossain">
     <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
-<a href="http://www.github.com/Rezwan66">
+<a href="http://www.github.com/WEB-Imran-Hossain">
     <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
