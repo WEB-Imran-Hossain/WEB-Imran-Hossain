@@ -43,10 +43,10 @@
 </p>
 <div>
 <a href="http://www.github.com/WEB-Imran-Hossain">
-    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green&exclude=exclude" />
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
 <a href="http://www.github.com/WEB-Imran-Hossain">
-    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green&exclude=exclude" />
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
 <a href="http://www.github.com/WEB-Imran-Hossain">
     <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WEB-Imran-Hossain&theme=blue_green" />
