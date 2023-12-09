@@ -41,6 +41,7 @@
 <p align="center">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WEB-Imran-Hossain&theme=blue_green" />
 </p>
+<div>
 <a href="http://www.github.com/WEB-Imran-Hossain">
     <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
@@ -53,4 +54,5 @@
 <a href="http://www.github.com/WEB-Imran-Hossain">
     <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WEB-Imran-Hossain&theme=blue_green&utcOffset=8" />
 </a>
+</div>
 
