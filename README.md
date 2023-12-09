@@ -1,6 +1,6 @@
 ![MasterHead](https://i.ibb.co/0rSPtrS/Github-Banner-1280x640.png)
 <h1 align="center">Hi 👋, I'm Imran Hossain</h1>
-<h3 align="center">Frontend Developer from Bangladesh</h3>
+<h3 align="center">Front-End Developer from Bangladesh</h3>
 <h4>HTML5, CSS3, JavaScript, ES6, React.js and MongoDB are my preferred tracks. I do most of my work based on these and enjoy using them. I'm a MERN stack developer. I'm very passionate about working with and using new web technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-imran-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="web-imran-hossain" /> </p>
