@@ -43,15 +43,15 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WEB-Imran-Hossain&theme=blue_green" />
 </p>
 <a href="http://www.github.com/WEB-Imran-Hossain">
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green" />
+    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
 <a href="http://www.github.com/WEB-Imran-Hossain">
-    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green" />
+    <img align="right" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
 <a href="http://www.github.com/WEB-Imran-Hossain">
-    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WEB-Imran-Hossain&theme=blue_green" />
+    <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
 <a href="http://www.github.com/WEB-Imran-Hossain">
-    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WEB-Imran-Hossain&theme=blue_green&utcOffset=8" />
+    <img align="right" width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WEB-Imran-Hossain&theme=blue_green&utcOffset=8" />
 </a>
 
