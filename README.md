@@ -31,7 +31,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 <h2 align="left">Present Stats:</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=WEB-Imran-Hossain&date_format=j%20M%5B%20Y%5D" alt="web-imran-hossain" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=WEB-Imran-Hossain&date_format=j%20M%5B%20Y%5D" alt="web-imran-hossain" /></p>
 
 
 
