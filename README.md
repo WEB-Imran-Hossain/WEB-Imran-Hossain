@@ -17,15 +17,16 @@
 <a href="https://medium.com/@webimran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@webimran" height="40" width="40" /></a>
 </p>
 
+
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,figma)](https://skillicons.dev)</p>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,figma" alt="web-imran-hossain" /></p>
 
 <h2 align="left">Present Stats:</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=WEB-Imran-Hossain&date_format=j%20M%5B%20Y%5D" alt="web-imran-hossain" /></p>
 
-<h2 align="left">Summary Cards:</h2>
+<h2 align="left">Github Stats:</h2>
 
 <p align="center">
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WEB-Imran-Hossain&theme=blue_green" />
