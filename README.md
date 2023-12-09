@@ -1,6 +1,7 @@
 ![MasterHead](https://i.ibb.co/0rSPtrS/Github-Banner-1280x640.png)
 <h1 align="center">Hi 👋, I'm Imran Hossain</h1>
 <h3 align="center">Frontend Developer from Bangladesh</h3>
+<h4>HTML5, CSS3, JavaScript, ES6, React.js and MongoDB are my preferred tracks. I do most of my work based on these and enjoy using them. I'm a MERN stack developer. I'm very passionate about working with and using new web technologies.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-imran-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="web-imran-hossain" /> </p>
 
@@ -18,22 +19,21 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <br><br>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> <br><br>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,figma)](https://skillicons.dev)</p>
 
 <h2 align="left">Present Stats:</h2>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=WEB-Imran-Hossain&date_format=j%20M%5B%20Y%5D" alt="web-imran-hossain" /></p>
 
+<h2 align="left">Summary Cards:</h2>
 
+<p align="center">
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WEB-Imran-Hossain&theme=blue_green" />
+</p>
 
-
-
+<a href="http://www.github.com/Rezwan66">
+    <img width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WEB-Imran-Hossain&theme=blue_green" />
+</a>
+<a href="http://www.github.com/Rezwan66">
+    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green" />
+</a>
