@@ -49,3 +49,11 @@
 <a href="http://www.github.com/WEB-Imran-Hossain">
     <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WEB-Imran-Hossain&theme=blue_green" />
 </a>
+
+<a href="http://www.github.com/WEB-Imran-Hossain">
+    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=WEB-Imran-Hossain&theme=blue_green" />
+</a>
+
+<a href="http://www.github.com/WEB-Imran-Hossain">
+    <img align="right" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WEB-Imran-Hossain&theme=blue_green&utcOffset=8" />
+</a>
