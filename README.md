@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1rSlA6k8gWHdCXvmjFEoVg24DBIiZYPRc/view?usp=sharing)
+![MasterHead](https://res.cloudinary.com/dnt9worag/image/upload/v1725468210/Github_Banner_1280x640_lafj4v.jpg)
 <h1 align="center">Hello 👋, I'm Imran Hossain</h1>
 <h4 align="center">Hi! I am a front-end developer. My favorite tracks are HTML5, CSS3, JavaScript, ES6, React.js and MongoDB. I base most of my work on them and enjoy using them. I am a MERN stack developer. I am very passionate about working with and using new web technologies.</h4>
 
